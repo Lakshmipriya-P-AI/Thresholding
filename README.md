@@ -62,11 +62,8 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 ## Output
 
 ### Original Image
-<br>
-<br>
-<br>
-<br>
-<br>
+![image](https://user-images.githubusercontent.com/93427923/170813704-b30e77c8-c48d-4e27-b71c-5895942ae738.png)
+
 
 ### Global Thresholding
 <br>
